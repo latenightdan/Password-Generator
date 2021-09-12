@@ -1,1 +1,1 @@
-# Password Generator Starter Code
+This works, but I have this feeling that it could have been done better. The commented out code at the bottom were some of the techniques I tried before settling on making an empty array at the start of generate password, then adding variables for each bool. If there is a cooler way to do this, let me know!!!
