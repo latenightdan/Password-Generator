@@ -61,7 +61,7 @@ if(symbols)
 }
 if(passwordArray.length === 0)
 {
-  alert("uhh, what do you expect me to do with this? Do you see anything besides letters, numbers, or symbols on your keyboard? Am I a joke to you? Please, PLEASE stop MESSING WITH ME, and select AT LEAST one of the options.")
+  alert("uhh, what do you expect me to do with this? Do you see anything besides letters, numbers, or symbols on your keyboard? Am I a joke to you? Please, select AT LEAST one of the options, you punk clown.")
   generatePassword();
 }
 password = capsAndLower(password);
